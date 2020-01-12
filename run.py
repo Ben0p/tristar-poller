@@ -189,8 +189,8 @@ def main():
                 elif dip == "Offline":
                     o.write(f'{name},{ip},Offline\n')
 
-                o.close()
-            f.close()
+            o.close()
+        f.close()
 
                 
                 

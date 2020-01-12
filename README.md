@@ -19,5 +19,5 @@ Name in column 3 and IP address in column 5
 Will output into a .csv
 
 
-That's it for now
+That's it for now, plan to add more polling in the future.
 
